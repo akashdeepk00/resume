@@ -1,5 +1,6 @@
 body {
   background-color: #fbe0c4;
+  font-family: "Gill Sans", sans-serif;
 }
 
 hr {
@@ -15,7 +16,7 @@ h3
 }
 h1
 {
-  color: #845460;
+  color: #ca8a8b;
 }
 thead
 {
